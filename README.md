@@ -2,7 +2,7 @@
 
 
 - 💻 Amo desenvolvimeto front-end e codar com python.
-- 🚀 Atualmente estou me dedicando em JavaScript e estudando Análise de Dados
+- 🚀 Atualmente estou me dedicando em JavaScript
 <br>
 
 ## 📑  Projetos
